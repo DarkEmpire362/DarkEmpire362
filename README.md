@@ -1,5 +1,5 @@
 - Hi, I’m Chandon Adkins, known more commonly by my online handle, @DarkEmpire362
-- I develop a lot of mods and miscellaneous programming project.
+- I develop a lot of mods and work on miscellaneous, typically game and AI related programming projects.
 - I'm currently:
 -  Learning the Monogame Framework for game development in C#
 -  Taking introductory courses on C++ at University
