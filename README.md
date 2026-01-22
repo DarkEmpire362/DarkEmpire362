@@ -3,8 +3,7 @@ Hi, I’m DarkEmpire362!
 I develop a lot of mods and work on miscellaneous, typically game and AI related programming projects.
 
 I'm currently:
--  Trying to develop a custom graphics library in Rust
--  Starting my Master's in CS concurrent to my senior year of undergrad
+-  Completing my Master's in CS, hopefully this Spring.
 
 You can reach me via the following:
 -  Discord: @darkempire362
